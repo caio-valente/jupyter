@@ -4,4 +4,4 @@ Projects are focused on Tribology and Materials Science
 
 Using ``matplotlib``, ``plotly``, ``seaborn``, ``pandas`` and ``numpy``
 
-[Click here](jupiter-notebooks/data-acquisition-preparation.ipynb) to see the Project Summary (in Portuguese)
+[Click here](jupiter-notebooks/00-summary.ipynb) to see the Project Summary (in Portuguese)

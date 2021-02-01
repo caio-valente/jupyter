@@ -9,3 +9,4 @@ dependencies:
   - opencv
   - scipy
   - statsmodels
+  - libgl1-mesa-glx
